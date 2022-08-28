@@ -9,6 +9,7 @@ In the project directory, you can run:
 
 ### Deployment
 
-You can see  it's Deployment here: [https://vercel.com/keertijanm/todolist](https://vercel.com/keertijanm/todolist)
+You can see  it's Deployment here: [https://todolist-wine-seven.vercel.app/](https://todolist-wine-seven.vercel.app/)
 
 
+![image](https://user-images.githubusercontent.com/81510729/187091516-7f8a6a0a-d2ba-440d-b57c-e4918dd7c9fc.png)
