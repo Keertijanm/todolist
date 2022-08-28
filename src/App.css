@@ -1,0 +1,102 @@
+.to-do-list-container{
+  margin:5rem;
+  display:flex;
+  justify-content: center;
+  align-items: flex-start;
+  width:51rem;
+  min-height: 50rem;
+border: 1px solid rgb(134, 5, 181);
+border-width: 3px;
+background-color: lightcyan;
+
+}
+.todo-form{
+  display :flex;
+  width:100%;
+  margin-top: 2rem;
+  font-size : 2rem;
+  gap:1rem;
+  background-color:rgb(134, 5, 181);
+}
+.todo-input{
+  border: 1px solid blue;
+   font-size: 3rem;
+   padding: 1rem;
+   border-radius: 1rem;
+   color: black;
+   
+}
+.todo-input::placeholder{
+  font-size:2rem;
+  color: blue;
+}
+.todo-btn{
+  border:1px solid blue;
+  border-radius: 1rem;
+  background-color: white;
+  padding:2rem;
+  cursor: pointer;
+  font-weight: 600;
+  color: blue;
+}
+.todo-btn:hover{
+  background-color: rgb(89, 228, 214);
+color: blue;
+font-weight: 500;
+
+}
+
+.task-div{
+  padding: 2rem;
+  display: flex;
+ justify-content: space-between; 
+ align-items: center;
+  margin:1rem;
+ 
+  border-radius: 1rem;
+  border: 2px solid ;
+  background-color:rgb(89, 228, 214);
+  
+}
+
+.todo-text{
+  font-size: 2.5rem;
+}
+.icons{
+  display: flex;
+  gap:3rem;
+  font-size: 2.5rem;
+cursor: pointer;
+}
+.complete{
+  text-decoration: line-through;
+  opacity: 1;
+  background-color: rgb(0, 162, 255);
+
+}
+.hide{
+  display: none;
+}
+h1 {
+  font-size: x-large;
+  color: white;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  margin-bottom: 2px;
+  padding-top: 10px;
+  align-items: center;
+}
+
+.my-form {
+  /* width: auto; */
+  background-color: rgb(134, 5, 181);
+  padding-top: 5px;
+  padding-bottom: 20px;
+  padding-left: 21px;
+  padding-right: 21px;
+
+  border-color: rgb(134, 5, 181);
+
+}
